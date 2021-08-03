@@ -20,6 +20,7 @@ you can see my [Tensorflow Object Detection From Scratch](https://github.com/Kar
 
 
 **Day 3 of 30 Day of Data**
+
 Today I was excited to learn and revision the basic command for windows CMD and the Git and GitHub command so I watch this video made by  Kunal Kushwaha for [Git and GitHub Tutorials](https://www.youtube.com/watch?v=apGV9Kg7ics) 
 
 I learned the basic windows command like:
@@ -41,3 +42,11 @@ and all I need for Git
 
 I know Git well, but this was a good revision for me to restore my knowledge 
 you can see the [Git and GitHub cheat sheet](https://github.com/Kareem-negm/30-Day-of-Data/tree/main/Git%20and%20GitHub%20cheat%20sheet) that has the best and basic commands for Git and GitHub , and this is everything for today see you the next day 
+
+
+**Day 3 of 30 Day of Data**
+
+Today I joined to the [LearnPlatform COVID-19 Impact on Digital Learning
+](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning) competition , I made my notebook and it has 9 upvotes in less than 24 hours my notebook named [COVID-19 Impact on Digital Learning💪🔥 EDA
+](https://www.kaggle.com/kareem3egm/covid-19-impact-on-digital-learning-eda/comments#1441291) 
+I made some awesome analysis and visualization charts, it was a chance for me to review the most visualization libraries I know like Matplotlib and seaborn , and this is everything for today see you the next day 
