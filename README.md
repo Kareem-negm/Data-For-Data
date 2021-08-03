@@ -44,7 +44,7 @@ I know Git well, but this was a good revision for me to restore my knowledge
 you can see the [Git and GitHub cheat sheet](https://github.com/Kareem-negm/30-Day-of-Data/tree/main/Git%20and%20GitHub%20cheat%20sheet) that has the best and basic commands for Git and GitHub , and this is everything for today see you the next day 
 
 
-**Day 3 of 30 Day of Data**
+**Day 4 of 30 Day of Data**
 
 Today I joined to the [LearnPlatform COVID-19 Impact on Digital Learning
 ](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning) competition , I made my notebook and it has 9 upvotes in less than 24 hours my notebook named [COVID-19 Impact on Digital Learning💪🔥 EDA
