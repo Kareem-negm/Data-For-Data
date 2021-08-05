@@ -50,3 +50,14 @@ Today I joined to the [LearnPlatform COVID-19 Impact on Digital Learning
 ](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning) competition , I made my notebook and it has 9 upvotes in less than 24 hours my notebook named [COVID-19 Impact on Digital Learning💪🔥 EDA
 ](https://www.kaggle.com/kareem3egm/covid-19-impact-on-digital-learning-eda/comments#1441291) 
 I made some awesome analysis and visualization charts, it was a chance for me to review the most visualization libraries I know like Matplotlib and seaborn , and this is everything for today see you the next day 
+
+
+**Day 5 of 30 Day of Data**
+
+Today I fell in love with H20 AutoML, it's an unbelievable tool to make an efficient machine learning model with high accuracy and less than 15 lines of code 
+I used it because today I joined to [Tabular Playground Series - Aug 2021
+](https://www.kaggle.com/c/tabular-playground-series-aug-2021/code) competition and used a lot of Regression algorithms and the best one was XGboox and h2oautoml 
+I advise you to learn more about it and you will get a high-efficiency model for your business , and this is everything for today see you the next day 
+
+
+
