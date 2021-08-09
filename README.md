@@ -60,4 +60,11 @@ I used it because today I joined to [Tabular Playground Series - Aug 2021
 I advise you to learn more about it and you will get a high-efficiency model for your business , and this is everything for today see you the next day 
 
 
+**Day 6 of 30 Day of Data**
+
+It seems that the auto libraries is coming strongly,
+today I learned about an auto visualization library that can make all of the visualizations you need in one single line of code
+
+it's an awesome and very fixable library that you can use in your work, this [notebook](https://github.com/Kareem-negm/30-Day-of-Data/blob/main/automl-lazy-predict-training-30-classifiers.ipynb) contains three auto EDE libraries  that you can use in your daily work , and this is everything for today see you the next day 
+
 
