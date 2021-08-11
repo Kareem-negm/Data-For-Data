@@ -68,3 +68,4 @@ today I learned about an auto visualization library that can make all of the vis
 it's an awesome and very fixable library that you can use in your work, this [notebook](https://github.com/Kareem-negm/30-Day-of-Data/blob/main/automl-lazy-predict-training-30-classifiers.ipynb) contains three auto EDE libraries  that you can use in your daily work , and this is everything for today see you the next day 
 
 
+
