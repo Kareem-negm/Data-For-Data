@@ -65,7 +65,13 @@ I advise you to learn more about it and you will get a high-efficiency model for
 It seems that the auto libraries is coming strongly,
 today I learned about an auto visualization library that can make all of the visualizations you need in one single line of code
 
-it's an awesome and very fixable library that you can use in your work, this [notebook](https://github.com/Kareem-negm/30-Day-of-Data/blob/main/automl-lazy-predict-training-30-classifiers.ipynb) contains three auto EDE libraries  that you can use in your daily work , and this is everything for today see you the next day 
+it's an awesome and very fixable library that you can use in your work, this [notebook](https://github.com/Kareem-negm/30-Day-of-Data/blob/main/automl-lazy-predict-training-30-classifiers.ipynb) contains three auto EDA libraries  that you can use in your daily work , and this is everything for today see you the next day 
 
+**Day 7-8 of 30 Day of Data***
 
+the auto tools have become very popular more than I know , for example, I learned in a few days more than 5 auto libraries for machine learning models, visualization, reports, and EDA 
+
+today I will show you how can you used 3 liberties to report, EDA, and visualize your data automatedly using Auto libraries, the fires one is `pandas_profiling ` and you can use it to make a report, `sweetviz ` you can use it to make a good EDA, the last one is `autoviz` and you can use it to make a full data visualization 
+
+you can find a notebook for these three libraries here 
 
