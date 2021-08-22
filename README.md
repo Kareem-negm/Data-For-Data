@@ -74,4 +74,4 @@ the auto tools have become very popular more than I know , for example, I learne
 today I will show you how can you used 3 liberties to report, EDA, and visualize your data automatedly using Auto libraries, the fires one is `pandas_profiling ` and you can use it to make a report, `sweetviz ` you can use it to make a good EDA, the last one is `autoviz` and you can use it to make a full data visualization 
 
 you can find a notebook for these three libraries in my [Green Vehicle Guide auto EDA](https://www.kaggle.com/kareem3egm/green-vehicle-guide-auto-eda) notebook
-
+ 
